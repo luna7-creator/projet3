@@ -11,7 +11,8 @@ h2 {
   margin-bottom: 5px; }
 
 .price {
-  align-self: center; }
+  align-self: center;
+  padding-right: 10px; }
 
 i {
   margin-left: 90%; }
