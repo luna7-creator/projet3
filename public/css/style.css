@@ -65,8 +65,12 @@ img {
   text-align: left;
   font-size: medium; }
 
-.fas {
-  position: absolute; }
+.cod {
+  display: flex;
+  justify-content: space-between; }
+
+.cod .fa-heart {
+  margin: 40px; }
 
 @media (max-width: 425px) {
   body {

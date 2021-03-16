@@ -90,9 +90,11 @@ img{
         
     }
     
-    .fas{
-       position:absolute;
+.cod{
+    display:flex;
+    justify-content: space-between;
+}
     
-    }
-    
-    
+.cod .fa-heart{
+ margin: 40px;
+}
